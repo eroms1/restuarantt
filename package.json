@@ -13,7 +13,7 @@
     "postinstall": "turbo postinstall"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "finalhandler": "1.1.1",
     "fresh": "0.5.2",
     "helmet": "^3.22.0",
